@@ -1,0 +1,24 @@
+{
+  "name": "testjsonplaceholder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreeairinca/testjsonplaceholder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreeairinca/testjsonplaceholder/issues"
+  },
+  "homepage": "https://github.com/andreeairinca/testjsonplaceholder#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "frisby": "^2.1.0",
+    "jest": "^23.6.0"
+  }
+}
